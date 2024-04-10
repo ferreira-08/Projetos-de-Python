@@ -6,5 +6,6 @@ Para rodar esse projeto, instale:
 
 ```
 npm install python
+Pycharm
 pandas
 ```
