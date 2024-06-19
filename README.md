@@ -5,7 +5,7 @@
 Para rodar esse projeto, instale:
 
 ```
-npm install python
+install python
 Pycharm
 pandas
 ```
